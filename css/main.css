@@ -1,0 +1,138 @@
+
+* {
+	color: #7ACCC8;
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: white;
+	margin: 0;
+}
+a {
+	color: #222;
+	text-decoration: none;
+}
+
+nav {
+	width: 100%;
+	position: block;
+	background-color: #FE7E00;
+	height: 80px;
+}
+
+nav .logo{
+	color: #fff;
+    line-height: 20px;
+    font-size: 36px;
+    float: left;
+    padding: 15px 15px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+ul {
+	float: right;
+	margin-right: 25px;
+	padding-top: 26px;
+}
+ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 5px 10px 0 0;
+	vertical-align: bottom;
+	margin: 5px 5px;
+	font-size: 13px;
+}
+ul li a{
+	font-size: 19px;
+	position: relative;
+	top: -3px;
+	color: white;
+}
+.button h1{
+	padding-left: 49px;
+	font-weight: initial;
+	color:orange;
+	margin-bottom: 50px;
+}
+.orange {
+	padding-top: 50px;
+	margin-top: 50px;
+	display: inline-block;
+	width: 40%;
+}
+
+.button {
+	display: inline-block;
+	width: 40%;
+	position: relative;
+	bottom: 100px;
+}
+
+.leftbutton{
+
+	padding: 15px;
+	width: 185px;
+	background-color: #FE7E00;
+	letter-spacing: 6px;
+	border: 0;
+	color: white;
+	margin-left: 49px;
+}
+.rightbutton{
+	padding: 15px;
+	width: 185px;
+	background-color: #7ACCC8;
+	letter-spacing: 2px;
+	border: 0;
+	color: white;
+	margin-left: 28px
+}
+
+footer {
+	height: 100px;
+	width: 100%;
+	background-color: #7ACCC8;
+}
+.span {
+	font-weight: bold;
+}
+.searchButton {
+
+ 	float: right;
+}
+.searchButton input {
+	letter-spacing: 6px;
+	font-size: 21px;
+	border-style: none;
+	padding-right: 65px;
+	padding-left: 0;
+	width: 105px;
+	margin-right: 50px;
+	padding-bottom: 6px;
+	margin-top: 20px;
+	background-color:#CFCFCF;
+
+}
+h1 { 
+	font-family: 'Metrophobic', Arial, serif; font-weight: 400; }
+
+nav > img {
+	float: left;
+}
+.fa {
+	top: 0;
+	position: relative;
+	left: 166px;
+	display: inline-block;
+	font-size: inherit;
+	text-rendering: auto;
+
+}
+
+
+
+
+
+
+
